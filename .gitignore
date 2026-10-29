@@ -1,0 +1,20 @@
+# KiCad lock files (contain machine hostname and OS username)
+*.lck
+~*.lck
+
+# KiCad local history / autosave snapshots and backups
+.history/
+*-backups/
+_autosave-*
+*.bak
+
+# KiCad per-user UI state and caches
+*.kicad_prl
+fp-info-cache
+
+# Konnect tool state
+.konnect/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
